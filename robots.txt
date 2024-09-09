@@ -1,0 +1,34 @@
+# Allow Googlebot (Google Search)
+User-agent: Googlebot
+Disallow:
+
+# Allow Bingbot (Bing Search)
+User-agent: Bingbot
+Disallow:
+
+# Allow Yahoo Slurp (Yahoo Search)
+User-agent: Slurp
+Disallow:
+
+# Allow DuckDuckBot (DuckDuckGo Search)
+User-agent: DuckDuckBot
+Disallow:
+
+# Allow Baiduspider (Baidu Search)
+User-agent: Baiduspider
+Disallow:
+
+# Allow Yandex (Yandex Search)
+User-agent: Yandex
+Disallow:
+
+# Block HTTrack Website Copier and other site mirroring tools
+User-agent: HTTrack
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+# Block all other bots by default
+User-agent: *
+Disallow: /
