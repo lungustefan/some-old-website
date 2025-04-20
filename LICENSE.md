@@ -1,4 +1,4 @@
-# License Thank (https://lungustefan.ro)[https://lungustefan.ro]
+# License Thank [https://lungustefan.ro](https://lungustefan.ro)
 
 This is free and unencumbered software released into the public domain.
 
